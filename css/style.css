@@ -1,0 +1,19 @@
+@import './base/modern-normalize.css';
+@import './base/typography.css';
+@import './base/variables.css';
+
+@import './modules/header.css';
+@import './modules/container.css';
+@import './modules/project-list.css';
+@import './modules/project.css';
+
+html {
+    font-family: var(--font-family);
+    background-color: var(--color-primary-500);
+    color: var(--color-primary-900);
+}
+
+body {
+    padding: 1rem;
+}
+

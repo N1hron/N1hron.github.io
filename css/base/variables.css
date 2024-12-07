@@ -1,0 +1,26 @@
+:root {
+    --font-family: 'Roboto', sans-serif;
+
+    --font-size-sm: 0.875rem;
+    --font-size-md: 1rem;
+    --font-size-lg: 1.5rem;
+
+    --color-primary-500: hsl(218, 17%, 14%);
+    --color-primary-600: hsl(218, 17%, 17%);
+    --color-primary-700: hsl(218, 17%, 27.5%);
+    --color-primary-900: hsl(218, 17%, 75%);
+
+    --color-green-500: hsl(171.31 62% 48%);
+    --color-green-600: hsl(172.49 100% 33%);
+
+    --color-blue-500: hsl(206.11 92% 72%);
+    --color-blue-600: hsl(205.72 62% 59%);
+
+    --color-icon: hsl(218, 17%, 75%);
+
+    --border-width: 0.125rem;
+    --border-radius: 0.25rem;
+
+    --transition-duration-default: 0.2s;
+    --transition-duration-fast: 0.1s;
+}
