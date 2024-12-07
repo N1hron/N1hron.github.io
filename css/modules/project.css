@@ -64,6 +64,7 @@
     text-align: start;
 
     cursor: pointer;
+    touch-action: manipulation;
 
     @media (hover: hover) {
         &:hover {
