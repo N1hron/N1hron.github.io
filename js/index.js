@@ -10,4 +10,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const projectList = new ProjectList(projects);
 
     projectList.render(main);
+
+    // function changeLanguage(lang) {
+    //     document.documentElement.lang = lang;
+    //     projects.forEach(project => project.changeLanguage(lang))
+    // }
 });
+
